@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align='Center'>Machine Learning Developer</h1>
+---
+<h2 align='Center'>Competitive Coder</h2>
+---
+<h1 align='Center'>Blogger</h1>
+
+![Blogging Mania](https://drive.google.com/uc?export=view&id=1ku4ol6SI_eOOvCa4uvncwbnV7Eeq5O6O)
+
 
 <!--
 **PritimoySarkar/pritimoysarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
