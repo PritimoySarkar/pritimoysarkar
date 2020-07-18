@@ -3,8 +3,7 @@
 <h2 align='Center'>Competitive Coder</h2>
 ---
 <h1 align='Center'>Blogger</h1>
-
-![Blogging Mania](https://drive.google.com/uc?export=view&id=1ku4ol6SI_eOOvCa4uvncwbnV7Eeq5O6O)
+[![Blogging Mania](https://drive.google.com/uc?export=view&id=1ku4ol6SI_eOOvCa4uvncwbnV7Eeq5O6O)](https://www.bloggingmania.net)
 
 
 <!--
