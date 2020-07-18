@@ -5,7 +5,8 @@
 <h1 align='Center'>Blogger</h1>
 
 <div align='Center'>
-[![Blogging Mania](https://drive.google.com/uc?export=view&id=1x__gn92u4RtTSFnWBC9360jLtGhVraQq)](https://www.bloggingmania.net)
+  
+  [![Blogging Mania](https://drive.google.com/uc?export=view&id=1x__gn92u4RtTSFnWBC9360jLtGhVraQq)](https://www.bloggingmania.net)
 </div>
 
 
