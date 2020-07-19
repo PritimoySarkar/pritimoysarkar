@@ -7,7 +7,7 @@
 <div align='Center'>
   
   [![Blogging Mania](https://drive.google.com/uc?export=view&id=1x__gn92u4RtTSFnWBC9360jLtGhVraQq)](https://www.bloggingmania.net)
-  <h2>[Visit my website: BLogging Mania](https://www.bloggingmania.net)</h2>
+  
 </div>
 
 <div align='Center'>
