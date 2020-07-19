@@ -1,6 +1,10 @@
-<h1 align='Center'>Machine Learning Developer</h1>
+<div allign='Center'>
+            
+  <font> <h1> 👨‍💻 **Machine Learning Developer** 👨‍💻 </h1> </font> | <font size='6 px'> <h1> 🤯 Competitive Coder 🤯 </h1> </font>|
+  ------- | ---------------- |
+  <font size='5 px'> <div align='Center'> <h2> [🖥 Credit Card Application Screening 🖥](https://github.com/PritimoySarkar/Credit-Card-Application-approval-with-Machine-Learning) <br><br> [🖥 Covid-19 DATA Cleaning 🖥](https://github.com/PritimoySarkar/Covid-19-Data-Cleaning) </h2> </div> </font> |  <div align='Center'> <font size='5 px'> <h2> [⌨ Hacker Rank Profile ⌨](https://www.hackerrank.com/pritimoysarkar) <br><br> [⌨ Codechef Profile ⌨](https://www.codechef.com/users/pritimoy) </h2> </font> </div> |
 
-<h2 align='Center'>Competitive Coder</h2>
+</div>
 
 <h1 align='Center'>Blogger</h1>
 
