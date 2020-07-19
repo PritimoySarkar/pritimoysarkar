@@ -1,12 +1,19 @@
 <h1 align='Center'>Machine Learning Developer</h1>
----
+
 <h2 align='Center'>Competitive Coder</h2>
----
+
 <h1 align='Center'>Blogger</h1>
 
 <div align='Center'>
   
   [![Blogging Mania](https://drive.google.com/uc?export=view&id=1x__gn92u4RtTSFnWBC9360jLtGhVraQq)](https://www.bloggingmania.net)
+  <h2>[Visit my website: BLogging Mania](https://www.bloggingmania.net)</h2>
+</div>
+
+<div align='Center'>
+  <h2> <font color='blue'> ⚡ Visit my website: ⚡ </font> </h2> 
+  
+  [<h1> <font color='magenta'>✨ Blogging Mania ✨</font> </h1>](https://www.bloggingmania.net)
 </div>
 
 
