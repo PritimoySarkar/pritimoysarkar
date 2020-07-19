@@ -1,10 +1,6 @@
-<div align='Center'>
-    
-   <font size='6 px'> 👨‍💻 Machine Learning Developer 👨‍💻 </font> | <font size='6 px'> 🤯 Competitive Coder 🤯 </font>|
-   ------- | ---------------- |
-   <div align='Center'> <font size='5 px'> [🖥 Credit Card Application Screening 🖥](google.com) <br><br> [🖥 Covid-19 DATA Cleaning 🖥](google.com) </font> </div>  | <div align='Center'> <font size='5 px'> [⌨ Hacker Rank Profile ⌨](google.com) <br><br> [⌨ Codechef Profile ⌨](google.com) </font> </div> |
+<h1 align='Center'>Machine Learning Developer</h1>
 
-</div>
+<h2 align='Center'>Competitive Coder</h2>
 
 <h1 align='Center'>Blogger</h1>
 
